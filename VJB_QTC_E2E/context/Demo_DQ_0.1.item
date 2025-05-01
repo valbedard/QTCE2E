@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_DwW_EH8fEeqv5OUyPzpEiA" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_DwW_EX8fEeqv5OUyPzpEiA" comment="" name="TDP_URL" prompt="TDP_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="https://tdp.us.cloud.talend.com"/>
+  <contextParameter xmi:id="_DwW_En8fEeqv5OUyPzpEiA" comment="" name="TDS_URL" prompt="TDS_URL?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="https://tds.us.cloud.talend.com/data-stewardship"/>
+  <contextParameter xmi:id="_DwW_E38fEeqv5OUyPzpEiA" comment="" name="TDC_User" prompt="TDC_User?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="valarie.bedard@uzu.talend.com"/>
+  <contextParameter xmi:id="_DwW_FH8fEeqv5OUyPzpEiA" comment="" name="TDC_Pass" prompt="TDC_Pass?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v2:JiviKjS4x1HrPsxuhw8hwZEbf5osdtWhwtuRE8ZrQUWDUDn5tRTT1SXsMD9RFx9X8qDdosV/KpkY1fSk7H2G4UGbHrgKrEnupXc+KlqIF5018H3+qCHfFB058BQ="/>
+  <contextParameter xmi:id="_DwW_FX8fEeqv5OUyPzpEiA" comment="" name="MySQL_DB" prompt="MySQL_DB?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="crm"/>
+  <contextParameter xmi:id="_DwW_Fn8fEeqv5OUyPzpEiA" comment="" name="MySQL_User" prompt="MySQL_User?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+  <contextParameter xmi:id="_DwW_F38fEeqv5OUyPzpEiA" comment="" name="MySQL_Pass" prompt="MySQL_Pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Talend123"/>
+  <contextParameter xmi:id="_DwW_GH8fEeqv5OUyPzpEiA" comment="" name="Directory" prompt="Directory?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/Users/thoff/Documents/Talend/Demos/Dataprep/"/>
+</talendfile:ContextType>
